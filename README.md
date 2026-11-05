@@ -109,8 +109,4 @@ Die Auswahl plausibler Simulationsparameter ist eine zentrale Herausforderung. E
 - Patrick Konzbul: Die tatsächlichen Beiträge werden im Projektverlauf detailliert ergänzt.
 - Thanush Karunakaran: Die tatsächlichen Beiträge werden im Projektverlauf detailliert ergänzt.
 
-## 12. Einsatz von KI
 
-ChatGPT wurde zur Unterstützung beim Formulierung dieser README auf Grundlage unserer Pitch-Idee eingesetzt.
-
-Weitere KI-Nutzung wird hier mit dem jeweiligen Zweck und Umfang ergänzt.
