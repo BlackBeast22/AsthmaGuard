@@ -93,7 +93,9 @@ Folgende Inhalte werden ergänzt:
 
 ### Verfügbarkeit für ein Online-Update mit Tugce
 
-Noch im Team abzustimmen und einzutragen.
+10.11.2026 - erste Besprechung über Teams
+
+18.11.2026 - Pitch Idee Vortragen
 
 ### Fragen für das Feedback
 
