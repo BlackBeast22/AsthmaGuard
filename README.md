@@ -69,6 +69,19 @@ Die konkreten Wertebereiche, Einheiten und Modellparameter werden vor der Simula
 
 Alle Daten sind künstlich und stellen keine medizinischen Messdaten dar.
 
+### 7.1 Initiale Parameter-Annahmen für die Simulation
+
+Für die erste Iteration der Datensimulation gehen wir von folgenden Wertebereichen und theoretischen Annahmen aus, die im weiteren Verlauf mit Literatur belegt werden:
+
+| Prädiktor | Realistischer Wertebereich | Einheit | Initiale Hypothese zur Auswirkung auf die Ereigniszahl |
+| :--- | :--- | :--- | :--- |
+| **Pollenkonzentration** | 0 – 500 | Partikel/m³ | Ein Anstieg der Pollenkonzentration korreliert direkt mit einer Zunahme der Asthmaereignisse. |
+| **Feinstaub (PM)** | 0 – 100 | µg/m³ | Höhere Feinstaubbelastung führt zu Atemwegsirritationen und steigert die erwartete Ereignisrate. |
+| **Temperatur** | -10 – +35 | °C | Wahrscheinlich ein U-förmiger Zusammenhang: Sehr kalte und sehr heisse Luft reizen die Atemwege, während moderate Temperaturen neutral wirken. |
+| **Luftfeuchtigkeit** | 20 – 100 | % | Sehr hohe oder sehr tiefe Werte begünstigen Ereignisse; mittlere Werte (40–60%) sind optimal. |
+| **Körperliche Aktivität** | 0 – 300 | Minuten/Tag | Intensive Anstrengung kann belastungsinduziertes Asthma auslösen, besonders in direkter Kombination mit schlechter Luftqualität. |
+| **Zeit im Freien** | 0 – 720 | Minuten/Tag | Wirkt als Multiplikator: Je länger die Expositionszeit im Freien, desto stärker wirken sich Pollen und Feinstaub auf die Ereigniszahl aus. |
+
 ## 8. Anwendung und Nutzen der Regression
 
 Wir schätzen die multiple Poisson-Regression anhand der simulierten Daten. Anschliessend verwenden wir Umwelt- und Aktivitätswerte, um die erwartete Anzahl von Asthmaereignissen eines Tages zu berechnen.
