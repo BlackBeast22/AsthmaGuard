@@ -77,7 +77,7 @@ Für die erste Iteration der Datensimulation gehen wir von folgenden Wertebereic
 | :--- | :--- | :--- | :--- |
 | **Pollenkonzentration** | 0 – 500 | Partikel/m³ | Ein Anstieg der Pollenkonzentration korreliert direkt mit einer Zunahme der Asthmaereignisse. |
 | **Feinstaub (PM)** | 0 – 100 | µg/m³ | Höhere Feinstaubbelastung führt zu Atemwegsirritationen und steigert die erwartete Ereignisrate. |
-| **Temperatur** | -10 – +35 | °C | Wahrscheinlich ein U-förmiger Zusammenhang: Sehr kalte und sehr heisse Luft reizen die Atemwege, während moderate Temperaturen neutral wirken. |
+| **Temperatur** | -5 – +30 | °C | Wahrscheinlich ein U-förmiger Zusammenhang: Sehr kalte und sehr heisse Luft reizen die Atemwege, während moderate Temperaturen neutral wirken. |
 | **Luftfeuchtigkeit** | 20 – 100 | % | Sehr hohe oder sehr tiefe Werte begünstigen Ereignisse; mittlere Werte (40–60%) sind optimal. |
 | **Körperliche Aktivität** | 0 – 300 | Minuten/Tag | Intensive Anstrengung kann belastungsinduziertes Asthma auslösen, besonders in direkter Kombination mit schlechter Luftqualität. |
 | **Zeit im Freien** | 0 – 720 | Minuten/Tag | Wirkt als Multiplikator: Je länger die Expositionszeit im Freien, desto stärker wirken sich Pollen und Feinstaub auf die Ereigniszahl aus. |
